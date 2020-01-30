@@ -1,1 +1,1 @@
-# VioM
+# VioM In spite of the fact that I have experience in programming , but other fields ,dedicated software for German Stoll knitting machines, I am abeginner in Java. I'm going to finish a FASTTRACKIT course of Java , but I'm eager to learn as amuch as I can.Now ,it's the first time on github and I want to load my SpringMVC first project.
